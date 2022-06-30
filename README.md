@@ -14,3 +14,4 @@ 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
 
 
 ---NIEMA---
+the following tasks have most priority: 6,8,11,12,16,17,19,22,24,25,27
